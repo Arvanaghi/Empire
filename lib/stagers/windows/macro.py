@@ -67,7 +67,7 @@ class Stager:
             if option in self.options:
                 self.options[option]['Value'] = value
 
-
+ss
     def generate(self):
 
         # extract all of our options
